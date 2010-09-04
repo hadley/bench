@@ -1,0 +1,7 @@
+Package: bench
+Title: Benchmarking tools
+Version: 0.1
+Author: Hadley Wickham <h.wickham@gmail.com>
+Maintainer: Hadley Wickham <h.wickham@gmail.com>
+Description: Benchmarking tools
+License: MIT
